@@ -145,7 +145,7 @@ ROC-AUC improvement over Isolation Forest alone: +5.0%.
 Generates plain-language AML risk summaries for every customer, designed for compliance investigators with no ML background.
 
 Two LLM options:
-- **Local:** Llama 3.2 3B (Q4_K_M GGUF) via llama-cpp-python on GPU
+- **Local:** Llama 3.2 3B (Q4_K_M GGUF) via llama-cpp-python on T4 GPU
 - **API:** Gemini 2.5 Flash via Google AI API
 
 Each explanation maps behavioral patterns to specific AML Red Flag Indicator IDs (e.g. `[STRUCT-003]`, `[PROF-001]`), states the risk level, and provides a recommended next step for the investigator.
