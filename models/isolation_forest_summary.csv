@@ -1,0 +1,2 @@
+total_customers,flagged_suspicious,flagged_percentage,very_high_risk_count,high_risk_count,medium_risk_count,mean_risk_score,median_risk_score
+61410,615,1.0014655593551538,42,215,691,0.09325763629425061,0.06726596117378891

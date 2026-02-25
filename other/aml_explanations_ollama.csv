@@ -1,0 +1,36 @@
+customer_id,risk_score,risk_category,flagged,explanation
+SYNID0200931678,1.0,Very High,True,"**AML Risk Explanation for Customer SYNID0200931678**
+
+This customer has been flagged for AML review due to a Very High risk level, indicating a high likelihood of money laundering or terrorist financing activities.
+
+Our analysis of the customer's account activity has identified several red flags that triggered concern. Specifically, the customer's total outflow of $14,376,372.76 is 95.76x higher than the typical customer average, and their international transaction sum of $26,775,390.42 is 92.89x higher than the typical customer average. These large volumes of transactions suggest a high level of financial activity that may be indicative of illicit activity.
+
+Additionally, the customer's average transaction per province and city of $49,910.00 is 118.87x and 118.65x higher than the typical customer average, respectively. This suggests a high level of financial activity that may be concentrated in specific geographic areas, which could be indicative of a money laundering scheme.
+
+Furthermore, the customer's count of electronic funds of 4,959.00 is 114.55x higher than the typical customer average, and their maximum same hour count of 1,671.00 is 99.20x higher than the typical customer average. These values suggest a high level of electronic funds activity that may be indicative of a money laundering scheme.
+
+The customer's high volume of transactions"
+SYNID0200999280,0.9716,Very High,True,"**AML Risk Explanation for Customer SYNID0200999280**
+
+This customer has been flagged for AML review due to a very high risk level of 0.972. Our analysis has identified several key account behaviors that triggered concern.
+
+The customer's transaction volume is significantly higher than typical, with a total volume of $177,807,910.30, which is 61.50x higher than the average for our customers. This is particularly notable in the areas of international transactions, with a sum of $177,807,910.30, and large cash deposits, with a sum of $4,121,139.73.
+
+Furthermore, the customer's average transactions per province and city are also significantly higher than typical, indicating a high level of activity in multiple locations. Additionally, the customer's transaction count credit is 81.38x higher than the average, and the count of transactions below $10,000 is 79.94x higher than the average.
+
+These behaviors could indicate that the customer is engaging in large-scale, high-value transactions, potentially involving money laundering or other illicit activities. The high volume of activity in multiple locations and the use of large cash deposits also raise concerns about the customer's true identity and the potential for money laundering.
+
+**Relevant Red Flag Indicators:**
+
+* [ID-001] Client Identification > Identity Inconsistency: The customer's high transaction volume and large"
+SYNID0200100125,0.9587,Very High,True,"**AML Risk Explanation for Customer SYNID0200100125**
+
+This customer has been flagged for AML review due to a Very High risk score of 0.959. Our review of their account activity has identified several red flags that warrant further investigation.
+
+The customer's average transaction volume per province and city is significantly higher than the typical customer average, indicating a high level of activity that may be indicative of money laundering or other illicit activities. Additionally, the customer's count of Electronic Fund Transfers (EFTs) and Sum EFTs are also substantially higher than the typical customer average, suggesting a large volume of transactions that may be suspicious.
+
+Furthermore, the customer's maximum same-hour count of EFTs is also higher than the typical customer average, which could indicate a high level of activity in a short period of time. The customer's transaction count for credit is also higher than the typical customer average, suggesting a high level of financial activity.
+
+The customer's Sum below $10,000 is also higher than the typical customer average, indicating a large volume of transactions below the reporting threshold. The customer's international transaction count is also higher than the typical customer average, suggesting a high level of international activity that may be indicative of money laundering or other illicit activities.
+
+These patterns are most closely aligned with the red flag indicators [ID-001] Client Identification > Identity Inconsistency and [PROF-001] Profile M"

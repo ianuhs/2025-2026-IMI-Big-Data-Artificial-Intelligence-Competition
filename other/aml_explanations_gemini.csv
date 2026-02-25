@@ -1,0 +1,12 @@
+customer_id,risk_score,risk_category,flagged,explanation
+SYNID0200931678,1.0,Very High,True,"Customer SYNID0200931678 has been FLAGGED for AML review at a **Very High** risk level.
+
+Our analysis of this account reveals highly unusual and concerning transactional patterns. The client exhibits an exceptionally high volume and value of electronic funds transfers (EFTs), with total EFTs over 127 times the typical customer average and nearly 5000 individual EFT transactions. The overall account activity, including total inflows and outflows, is more than 90 times higher than expected, and includes significant international transaction volume.
+
+A particularly strong indicator of concern is the client's high frequency of activity, with over 1600 transactions occurring within a single hour, suggesting rapid fund movement and potential same-day turnover. Furthermore, a substantial sum of over $5 million consists of individual transactions below the $10,000 reporting threshold. Transactions are also spread across numerous cities and provinces, with average transaction values in these locations being over 118 times higher than typical.
+
+These patterns strongly indicate activity inconsistent with a normal financial profile [PROF-001, PROF-006, ACCT-004]. The rapid, high-volume movement of funds, especially within short periods and across multiple locations, suggests potential layering or pass-through activity [ATYPICAL-008, PML-MSB-01, UB-ATH-03]. The significant sum of transactions below reporting thresholds is a clear red flag for structuring to avoid regulatory scrutiny [STRUCT-003]. The overall scale and nature of international EFTs also point to a volume mismatch for the account type [WIRE-008].
+
+This activity is highly indicative of potential money laundering, possibly operating as an unregistered money services business or a conduit for illicit funds.
+
+**Next Step:** Conduct a thorough investigation into the source and destination of funds, the client's stated occupation and business purpose, and the counterparties involved in these transactions. Assess if the client is operating as an unregistered MSB."

@@ -1,0 +1,5 @@
+strategy,weights,roc_auc,capture_1pct,capture_5pct,capture_10pct
+ML_Heavy,70%/30%,0.8311111111111111,0.0,0.1,0.3
+Balanced,50%/50%,0.844040404040404,0.0,0.3,0.3
+Rule_Heavy,30%/70%,0.7991919191919192,0.0,0.2,0.3
+Adaptive,Adaptive,0.8202020202020202,0.0,0.0,0.3
