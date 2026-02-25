@@ -1,6 +1,6 @@
 # AML Detection System
 
-**2025-2026 IMI Big Data & Artificial Intelligence Competition**
+**2025-2026 IMI Big Data & Artificial Intelligence Competition hosted by the University of Toronto in collaboration with Scotiabank**
 
 Hybrid Anti-Money Laundering detection pipeline combining unsupervised anomaly detection, domain-driven rule-based scoring, and LLM-powered explainability to identify and explain suspicious financial activity across 61,000+ customers and 5.9 million transactions.
 
